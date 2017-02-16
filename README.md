@@ -45,3 +45,5 @@
 
 # Install on a Windows machine
 https://desktop.github.com/
+
+https://git-scm.com/downloads
