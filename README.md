@@ -35,4 +35,7 @@
 ## Add your key to the ssh agent
 `ssh-add ~/.ssh/id_rsa`
 
+## To view your public ssh key
+`cat ls ~/.ssh/*.pub`
+
 ## Add your key to your GitHub Account
