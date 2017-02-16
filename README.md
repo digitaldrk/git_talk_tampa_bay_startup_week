@@ -39,3 +39,9 @@
 `cat ls ~/.ssh/*.pub`
 
 ## Add your key to your GitHub Account
+
+## Test that your ssh key is connected
+`ssh -T git@github.com`
+
+# Install on a Windows machine
+https://desktop.github.com/
